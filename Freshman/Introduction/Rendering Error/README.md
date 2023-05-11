@@ -16,3 +16,7 @@ You can customize the error message and the styling of the error paragraph in yo
 ## Conclusion
 
 By adding error handling to our purchase button, i was able to provide a better user experience and help the user understand what went wrong and how to fix it. This code snippet demonstrates a simple way to handle errors in JavaScript.
+
+## Links
+
+Here is the web app for the demonstration [Rendering Error](https://645cbffdacdbdb04e36af2e3--cheery-griffin-79d834.netlify.app/)
