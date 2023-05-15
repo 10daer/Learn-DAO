@@ -1,0 +1,126 @@
+body {
+  background-color: #0b061d;
+  margin: 0;
+  padding: 0;
+  font-family: "Inter";
+  text-align: start;
+}
+
+.container-1 {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1em;
+  height: 100vh;
+}
+
+.head1 {
+  color: white;
+  font-family: Inter;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 40px;
+  letter-spacing: -0.05em;
+  text-align: left;
+  margin-bottom: 0;
+  display: inline-block;
+}
+
+.inline {
+  color: #55f991;
+  display: block;
+}
+
+.line1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 28px;
+  color: #6b7280;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.btn {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+  line-height: 24px;
+  height: 50px;
+  width: 250;
+  background: #10b981;
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 17px 9px 15px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+}
+
+.btn img {
+  height: 30px;
+  width: 30px;
+  margin-right: 0.2em;
+  margin-right: 10;
+}
+
+.line2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-2 {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100%;
+  align-items: center;
+  justify-content: center;
+  border-top: 1px solid #d5d4d8;
+  margin-top: 1em;
+  padding: 2em;
+}
+
+.pw {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #273549;
+  height: 40px;
+  width: 200px;
+  color: #5def92;
+  margin: 10px;
+  padding: 5px 10px;
+  border-radius: 8px;
+}
+
+.two,
+.four {
+  grid-column: start 5px;
+  grid-column: end 5px;
+}
+
+.row {
+  grid-row: 20px;
+}
+
+@media (max-width: 450px) {
+  .container-2 {
+    margin-top: auto;
+    display: block;
+    flex-direction: column;
+  }
+  .line2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1em;
+  }
+  .line2 > button {
+    margin: 50;
+    padding: 5px 10px;
+  }
+}
