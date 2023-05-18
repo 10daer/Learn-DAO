@@ -29,8 +29,8 @@ By utilizing these features, you can easily save and manage your links, quickly 
 
 Follow these steps to install the Link Saver Chrome Extension:
 
-1. Download the extension files from the provided source
-2. Unzip the downloaded file (if applicable).
+1. Download the extension files [here](path/to/zippedfiles)
+2. Unzip the downloaded file.
 3. Open Google Chrome.
 4. Navigate to `chrome://extensions` in the address bar.
 5. Enable the "Developer mode" toggle located in the top right corner.
