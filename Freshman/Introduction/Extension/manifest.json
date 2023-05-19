@@ -4,7 +4,7 @@
     "name": "Link Saver",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "Tracker.jpg"
+        "default_icon": "Tracker.png"
     },
     "permissions": [
         "tabs"
