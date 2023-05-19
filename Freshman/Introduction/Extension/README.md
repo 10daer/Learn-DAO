@@ -7,6 +7,7 @@ The Link Saver Chrome Extension is a simple tool that allows you to save links f
 The Link Saver Chrome Extension offers the following features to enhance your browsing experience:
 
 ### Save Input
+
 - Enter a URL into the input field provided in the extension popup.
 - Click the "Save" button to store the entered link.
 - The saved link will be added to the list of saved links displayed in the extension popup.
@@ -19,6 +20,7 @@ The Link Saver Chrome Extension offers the following features to enhance your br
 - This feature allows you to quickly clear your list of saved links if needed.
 
 ### Save Tab
+
 - Click the "Save Tab" button to save the URL of the currently active tab.
 - This feature is useful when you want to quickly bookmark the webpage you are currently working in.
 - The URL of the current tab will be added to the list of saved links in the extension popup.
@@ -29,7 +31,7 @@ By utilizing these features, you can easily save and manage your links, quickly 
 
 Follow these steps to install the Link Saver Chrome Extension:
 
-1. Download the extension files [here](path/to/zippedfiles)
+1. Download the extension files [here.](https://github.com/10daer/Learn-Dao/files/11514591/Extension.zip)
 2. Unzip the downloaded file.
 3. Open Google Chrome.
 4. Navigate to `chrome://extensions` in the address bar.
@@ -50,7 +52,7 @@ Once the extension is installed, follow these steps to use its features:
 ## Support and Contributions
 
 For any issues, questions, or feedback regarding the Link Saver Chrome Extension, please contact the [developer](Afolabireedwan@gmail.com) or raise an issue on the project's GitHub repository.
-Contributions to the extension's codebase are welcome. 
+Contributions to the extension's codebase are welcome.
 
 ## Acknowledgements
 

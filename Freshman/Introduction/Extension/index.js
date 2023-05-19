@@ -5,7 +5,6 @@ const buttonDel = document.getElementById("del-btn");
 const saveEl = document.getElementById("save-tab")
 const ulEl = document.getElementById("ul-el")
 
-
 const leadsFromLocalStorage = JSON.parse( localStorage.getItem("myLeads") )
 
 if (leadsFromLocalStorage) {
