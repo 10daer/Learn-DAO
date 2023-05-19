@@ -31,7 +31,7 @@ By utilizing these features, you can easily save and manage your links, quickly 
 
 Follow these steps to install the Link Saver Chrome Extension:
 
-1. Download the extension files [here.](https://github.com/10daer/Learn-Dao/files/11514591/Extension.zip)
+1. Download the extension files [here.](https://github.com/10daer/Learn-Dao/files/11515046/Extension.zip)
 2. Unzip the downloaded file.
 3. Open Google Chrome.
 4. Navigate to `chrome://extensions` in the address bar.
